@@ -1,14 +1,8 @@
 # Perfil / Profile
 
----
-
 💻 Systems Engineer & Business Admin 📈 | Full Stack Developer | AI Integrations & GenAI Enthusiast | GDG Organizer La Paz 
 
----
-
 ¡Hola 👋! Me llamo **Michael**, soy **Ingeniero de Sistemas** 💻 y **Administrador de Empresas** 📈, desarrollador Full Stack y entusiasta de la Inteligencia Artificial Generativa 🤖, actualmente vivo en La Paz, Bolivia. Me encuentro especializado en conectar la arquitectura de software con los objetivos estratégicos de negocio, esto debido a mis dos profesiones, además puedo aprovechar los más de 10 años de experiencia elaborando soluciones digitales escalables y de alto impacto.
-
----
 
 ## 🚀 Experiencia (Expertise)
 
@@ -18,7 +12,7 @@ En los últimos años, he orientado mi entusiasmo hacia la **IA Generativa y la 
 
 Más allá del código, estoy profundamente comprometido con el crecimiento del ecosistema tecnológico local, como **Organizer en el GDG La Paz**, tengo el privilegio de aportar a la comunidad desempeñándome como speaker, mentor, jurado de hackatones y delegado de nuestra comunidad, buscando siempre impulsar y potenciar el talento de estudiantes y personas en general.
 
-## 💻 Tech Stack & Herramientas
+## 💻 Herramientas (Tech Stack)
 
 ### Desarrollo Frontend & Mobile
 <p align="left">
@@ -61,4 +55,26 @@ Más allá del código, estoy profundamente comprometido con el crecimiento del 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40"/>
+</p>
+
+## 🌐 Contactos (Contacts)
+
+¡Siempre estoy abierto a conectar y conversar sobre integraciones de GenIA, flujos de automatización, arquitectura backend o eventos comunitarios!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/michaelvargasloza" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/michaelvargasloza" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://youtube.com/@michaelvargasdeveloper" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/share/1NNhZ47sik/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/michaelvl93?igsh=OTRhcXFvNW1hcG8z" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
