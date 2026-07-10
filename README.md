@@ -8,8 +8,6 @@ Me gusta combinar la tecnología con la estrategia empresarial, cuento con más 
 
 En los últimos años, he orientado mi entusiasmo hacia la **IA Generativa y la Automatización**. Me especializo en el diseño de flujos de trabajo avanzados de IA y el desarrollo de agentes inteligentes que optimizan los procesos de negocio y mejoran la experiencia del usuario, con un fuerte enfoque en el diseño de integraciones inteligentes, sistemas de extracción de texto y flujos automatizados. Actualmente me encuentro cursando una **Maestría en Administración de Empresas (MBA)**.
 
-Más allá del código, estoy profundamente comprometido con el crecimiento del ecosistema tecnológico local, como **Organizer en el GDG La Paz**, tengo el privilegio de aportar a la comunidad desempeñándome como speaker, mentor, jurado de hackatones y delegado de nuestra comunidad, buscando siempre impulsar y potenciar el talento de estudiantes y personas en general.
-
 ## 💻 Herramientas (Tech Stack)
 
 ### Desarrollo Frontend & Mobile
